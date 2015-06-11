@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-# by Eric Castaneda
+# by feric
 #use utf8
 #Para utilizar el operador multiplicacion
 # Debemos escapar el metacaracter *
